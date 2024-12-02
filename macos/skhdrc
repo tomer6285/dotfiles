@@ -1,0 +1,10 @@
+rcmd - k : open -a kitty --new
+rcmd - f : open -a Firefox
+rcmd - o : open -a Obsidian
+rcmd - s : open -a Spotify
+rcmd - a : open -a Arc
+rcmd - c : open -an VSCodium
+rcmd - d : open -a Discord
+rcmd - t : open -a OnlyOffice
+rcmd - r : open -a /Users/tomer/renpy/renpy.app
+rcmd - g : open -a /Applications/Godot.app
